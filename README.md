@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![AximCore GitHub stats](https://github-readme-stats.vercel.app/api?username=aximcore)](https://github.com/anuraghazra/github-readme-stats)
+[![AximCore GitHub stats](https://github-readme-stats.vercel.app/api?username=aximcore&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
