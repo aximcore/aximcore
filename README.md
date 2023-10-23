@@ -3,18 +3,20 @@
 I'm a Full-Stack Developer working in [Budapest, Hungary](https://goo.gl/maps/77zLhS6WYtYyNyDk8).
 
 - 🕶 I use daily:
-  - 📱 React-native for iOS, Android and Web platforms
-  - 🏙 Node with NestJS, TypeScript
+  - 📱 React-native for iOS, Android
+  - 🌐 React, NextJs, Tailwind for Web
+  - 🏙 Node with NestJS and TypeScript
+  - 🐭 Golang
   - 🌿 Spring with Kotlin
-  - 🗣 GraphQL
-  - 🌍 GeoSpatial
-- 🌆 I'm currently working lead software developer at I-CELL KFT.
-- 💬 Ping me about mobile and b2b software development.
+  - 🗣 GraphQL and REST
+  - 🌍 GeoSpatial computing and databases
+- 🌆 I am currently working as a freelancer, providing software services and consulting for my partners.
+- 💬 Ping me about mobile and complex software development.
 - 📬 How to reach me:
-  - Email: [aximcore@gmail.com](mailto:aximcore@gmail.com)
-  - Website: [axim.me](https://axim.me) // coming soon
+  - Email: [mate@axim.dev](mailto:mate@axim.dev)
+  - Website: [axim.dev](https://axim.dev)
   - LinkedIn: [linkedin.com/in/aximcore](https://www.linkedin.com/in/aximcore/)
-  - Twitter: [twitter.com/aximcore](https://twitter.com/aximcore)
+  - Twitter/X: [twitter.com/aximcore](https://twitter.com/aximcore)
 
 <!--
 **aximcore/aximcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
