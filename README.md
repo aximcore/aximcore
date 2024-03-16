@@ -5,16 +5,15 @@ I'm a Full-Stack Developer working in [Budapest, Hungary](https://goo.gl/maps/77
 - 🕶 I use daily:
   - 📱 React-native for iOS, Android
   - 🌐 React, NextJs, Tailwind for Web
-  - 🏙 Node with NestJS and TypeScript
-  - 🐭 Golang
-  - 🌿 Spring with Kotlin
+  - 🏙 Node with NestJS and TypeScript for Backend
+  - 🐭 Golang for Backend
   - 🗣 GraphQL and REST
   - 🌍 GeoSpatial computing and databases
 - 🌆 I am currently working as a freelancer, providing software services and consulting for my partners.
-- 💬 Ping me about mobile and complex software development.
+- 💬 Ping me about mobile and custom software development.
 - 📬 How to reach me:
   - Email: [mate@axim.dev](mailto:mate@axim.dev)
-  - Website: [axim.dev](https://axim.dev)
+  - Website: [axim.dev](https://axim.dev?ref=github)
   - LinkedIn: [linkedin.com/in/aximcore](https://www.linkedin.com/in/aximcore/)
   - Twitter/X: [twitter.com/aximcore](https://twitter.com/aximcore)
 
